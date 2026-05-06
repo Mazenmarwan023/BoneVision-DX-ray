@@ -1,13 +1,9 @@
-<h1>BoneVision DX-Ray</h1>
+<div align="center">
+  <!-- <img src="https://via.placeholder.com/150" alt="BoneVision Logo" width="120"/> -->
+  <h1>BoneVision DX-Ray</h1>
   <p><b>Advanced Dual-Energy X-Ray Material Decomposition & Visualization Simulation</b></p>
   
-![Application Overview](https://github.com/user-attachments/assets/ff2425e3-497d-476d-871f-a8859cf677e3)
-
-## Demo 
-
-https://github.com/user-attachments/assets/31cce0be-7b53-4689-9c1b-8fae2ceaed53
-
-
+  ![Application Overview](https://github.com/user-attachments/assets/ff2425e3-497d-476d-871f-a8859cf677e3)
 
   <p>
     <a href="#overview">Overview</a> •
@@ -18,6 +14,19 @@ https://github.com/user-attachments/assets/31cce0be-7b53-4689-9c1b-8fae2ceaed53
     <a href="#credits">Credits</a>
   </p>
 </div>
+
+---
+
+## Demo & Screenshots
+
+https://github.com/user-attachments/assets/31cce0be-7b53-4689-9c1b-8fae2ceaed53
+
+> **[PLACEHOLDER FOR POSTER]**  
+> *(Insert project poster image here)*
+
+### Application Screenshots
+> **[PLACEHOLDER FOR SCREENSHOTS]**  
+> *(Insert screenshots of the UI showing the Ribcage phantom, Live Attenuation Charts, and evaluation metrics here)*
 
 ---
 
@@ -149,3 +158,4 @@ The system has been rigorously tested against 4 key degradation scenarios:
             </td>
         </tr>
     </table>
+</div>
