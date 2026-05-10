@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <!-- <img src="https://via.placeholder.com/150" alt="BoneVision Logo" width="120"/> -->
   <h1>BoneVision DX-Ray</h1>
   <p><b>Advanced Dual-Energy X-Ray Material Decomposition & Visualization Simulation</b></p>
